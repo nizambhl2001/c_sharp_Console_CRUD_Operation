@@ -1,0 +1,16 @@
+C:\Users\BROTHER COMPUTER\Desktop\1272482\TeacherInfo\TeacherInfo\obj\Debug\TeacherInfo.csproj.AssemblyReference.cache
+C:\Users\BROTHER COMPUTER\Desktop\1272482\TeacherInfo\TeacherInfo\obj\Debug\TeacherInfo.csproj.SuggestedBindingRedirects.cache
+C:\Users\BROTHER COMPUTER\Desktop\1272482\TeacherInfo\TeacherInfo\obj\Debug\TeacherInfo.csproj.CoreCompileInputs.cache
+C:\Users\BROTHER COMPUTER\Desktop\1272482\TeacherInfo\TeacherInfo\bin\Debug\TeacherInfo.exe.config
+C:\Users\BROTHER COMPUTER\Desktop\1272482\TeacherInfo\TeacherInfo\bin\Debug\TeacherInfo.exe
+C:\Users\BROTHER COMPUTER\Desktop\1272482\TeacherInfo\TeacherInfo\bin\Debug\TeacherInfo.pdb
+C:\Users\BROTHER COMPUTER\Desktop\1272482\TeacherInfo\TeacherInfo\obj\Debug\TeacherInfo.exe
+C:\Users\BROTHER COMPUTER\Desktop\1272482\TeacherInfo\TeacherInfo\obj\Debug\TeacherInfo.pdb
+G:\C# Evedance\TeacherInfo\TeacherInfo\bin\Debug\TeacherInfo.exe.config
+G:\C# Evedance\TeacherInfo\TeacherInfo\bin\Debug\TeacherInfo.exe
+G:\C# Evedance\TeacherInfo\TeacherInfo\bin\Debug\TeacherInfo.pdb
+G:\C# Evedance\TeacherInfo\TeacherInfo\obj\Debug\TeacherInfo.csproj.AssemblyReference.cache
+G:\C# Evedance\TeacherInfo\TeacherInfo\obj\Debug\TeacherInfo.csproj.SuggestedBindingRedirects.cache
+G:\C# Evedance\TeacherInfo\TeacherInfo\obj\Debug\TeacherInfo.csproj.CoreCompileInputs.cache
+G:\C# Evedance\TeacherInfo\TeacherInfo\obj\Debug\TeacherInfo.exe
+G:\C# Evedance\TeacherInfo\TeacherInfo\obj\Debug\TeacherInfo.pdb
